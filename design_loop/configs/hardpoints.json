@@ -1,0 +1,9 @@
+{
+  "points": [
+    { "name": "wheel_fl", "xyz": [ 0.85, -1.55, 0.35] },
+    { "name": "wheel_fr", "xyz": [-0.85, -1.55, 0.35] },
+    { "name": "wheel_rl", "xyz": [ 0.85,  1.55, 0.35] },
+    { "name": "wheel_rr", "xyz": [-0.85,  1.55, 0.35] }
+  ],
+  "sigma_px": 16
+}
