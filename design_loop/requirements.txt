@@ -10,7 +10,7 @@ numpy>=1.26
 tqdm>=4.66
 
 # 3D
-pytorch3d==0.7.8; platform_system != "Windows"
+pytorch3d==0.7.8; platform_system != "Windows" and python_version < "3.12"
 trimesh>=4.4
 imageio>=2.34
 imageio-ffmpeg>=0.5

@@ -3,6 +3,8 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
+Note: PyTorch3D wheels are not available for Python 3.12. Use Python 3.11 or install PyTorch3D from source if you need texture optimization on 3.12.
+
 ## Run
 python run_loop.py \
   --blender /usr/bin/blender \
