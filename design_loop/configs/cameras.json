@@ -1,0 +1,12 @@
+{
+  "image_width": 1024,
+  "image_height": 1024,
+  "cameras": [
+    { "name": "front",     "location": [0.0, -6.0, 1.2], "look_at": [0.0, 0.0, 1.0], "fov_deg": 35.0 },
+    { "name": "front_34",  "location": [2.5, -5.5, 1.3], "look_at": [0.0, 0.0, 1.0], "fov_deg": 35.0 },
+    { "name": "side",      "location": [6.0,  0.0, 1.2], "look_at": [0.0, 0.0, 1.0], "fov_deg": 35.0 },
+    { "name": "rear_34",   "location": [2.5,  5.5, 1.3], "look_at": [0.0, 0.0, 1.0], "fov_deg": 35.0 },
+    { "name": "rear",      "location": [0.0,  6.0, 1.2], "look_at": [0.0, 0.0, 1.0], "fov_deg": 35.0 },
+    { "name": "top",       "location": [0.0,  0.0, 7.0], "look_at": [0.0, 0.0, 1.0], "fov_deg": 35.0 }
+  ]
+}
